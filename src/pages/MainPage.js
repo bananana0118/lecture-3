@@ -13,9 +13,9 @@ import main3_jpg from "../assets/_main3.jpg";
 import main_items from "../assets/main-items.jpg";
 import main_parts from "../assets/main-parts.jpg";
 import main_styles from "../assets/main-styles.jpg";
-import main_items_webp from "../assets/main-items.webp";
-import main_parts_webp from "../assets/main-parts.webp";
-import main_styles_webp from "../assets/main-styles.webp";
+import main_items_webp from "../assets/_main-items.webp";
+import main_parts_webp from "../assets/_main-parts.webp";
+import main_styles_webp from "../assets/_main-styles.webp";
 
 function MainPage(props) {
     const imgRef1 = useRef(null);
